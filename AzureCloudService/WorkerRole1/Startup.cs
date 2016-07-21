@@ -6,7 +6,7 @@ namespace WorkerRole1
     {
         public void Configuration(IAppBuilder app)
         {
-            app.UseWelcomePage("/");
+            app.UseWelcomePage("/app/index.html");
         }
     }
 }
