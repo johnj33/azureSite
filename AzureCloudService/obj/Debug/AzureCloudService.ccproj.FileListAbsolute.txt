@@ -54,3 +54,5 @@ C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.
 C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.OData.resources.dll
 C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\zh-Hant\System.Spatial.resources.dll
+C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\Microsoft.Owin.FileSystems.dll
+C:\Src\azureSite\AzureCloudService\obj\Debug\WorkerRole1\Microsoft.Owin.StaticFiles.dll

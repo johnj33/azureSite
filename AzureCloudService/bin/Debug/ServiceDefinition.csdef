@@ -20,12 +20,6 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Src\azureSite\AzureCloudService\rcf\Debug\WorkerRole1Content\" />
       </Content>
-      <Content destination=".\">
-        <SourceDirectory path="C:\Src\azureSite\AzureCloudService\ecf\WorkerRole1Content\" />
-      </Content>
     </Contents>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
   </WorkerRole>
 </ServiceDefinition>

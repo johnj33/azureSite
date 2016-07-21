@@ -66,3 +66,7 @@ C:\Src\azureSite\AzureCloudService\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.
 C:\Src\azureSite\AzureCloudService\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
 C:\Src\azureSite\AzureCloudService\WorkerRole1\obj\Debug\WorkerRole1.dll
 C:\Src\azureSite\AzureCloudService\WorkerRole1\obj\Debug\WorkerRole1.pdb
+C:\Src\azureSite\AzureCloudService\WorkerRole1\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Src\azureSite\AzureCloudService\WorkerRole1\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\Src\azureSite\AzureCloudService\WorkerRole1\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Src\azureSite\AzureCloudService\WorkerRole1\bin\Debug\Microsoft.Owin.StaticFiles.xml
