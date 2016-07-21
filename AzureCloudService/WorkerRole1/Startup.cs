@@ -9,7 +9,6 @@ namespace WorkerRole1
     {
         public void Configuration(IAppBuilder app)
         {
-            //app.UseWelcomePage("/app/index.html");
             app.UseFileServer(new FileServerOptions()
             {
                 RequestPath = PathString.Empty,
