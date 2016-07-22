@@ -33,6 +33,7 @@
 *.su
 
 bin
+packages
 
 #Visual Studio files
 *.[Oo]bj
